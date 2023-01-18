@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Luísa Manoela nd my nickname is Lu! :) 
+## My name is Luísa Manoela and my nickname is Lu! :) 
 
 # 💜 About me
 
