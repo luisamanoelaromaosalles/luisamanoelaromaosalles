@@ -3,12 +3,17 @@
 
 # 💜 About me
 
-## 💻 Front-end developer & UX/UI designer 
-## 📌 Based in Poços de Caldas, Minas Gerais, Brazil 
-## 📗 Graduated from the Information Technology course at the Instituto Federal de Muzambinho in 2022 
-## 📝 Currently studying TypeScript and React.js 
-## ✨ I'm also a social entrepreneur. I founded, and I'm the administrative counselor of 2 NGOs: Guardiões da Educação (Guardians of Education) and Leadership Academy for Girls (Lidere-se)
-## 💬 Sharing is powerful for learning better and producing with more quality. So any tip is welcome! 
+💻 Front-end developer & UX/UI designer 
+
+📌 Based in Poços de Caldas, Minas Gerais, Brazil 
+
+📗 Graduated from the Information Technology course at the Instituto Federal de Muzambinho in 2022 
+
+📝 Currently studying TypeScript and React.js 
+
+✨ I'm also a social entrepreneur. I founded, and I'm the administrative counselor of 2 NGOs: Guardiões da Educação (Guardians of Education) and Leadership Academy for Girls (Lidere-se)
+
+💬 Sharing is powerful for learning better and producing with more quality. So any tip is welcome! 
 
 # 📬 Contact me: 
 <div>
